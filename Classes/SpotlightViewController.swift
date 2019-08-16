@@ -1,4 +1,4 @@
-//
+ //
 //  SpotlightViewController.swift
 //  Gecco
 //
